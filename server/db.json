@@ -1,0 +1,695 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Nguyễn Văn A",
+      "email": "nguyenvana@gmail.com",
+      "password": "123456",
+      "phone": "0987654321",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "2",
+      "fullName": "Phạm Thị B",
+      "email": "phamthib@gmail.com",
+      "password": "123456",
+      "phone": "0987654321",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "3",
+      "fullName": "Phạm Công Thành 1",
+      "email": "phamcongt560@gmail.com",
+      "password": "123456",
+      "phone": "09443543980",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "1760580472105",
+      "fullName": "Phạm Công Thành",
+      "email": "phamcongt2707@gmail.com",
+      "password": "123456",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "1760580769731",
+      "fullName": "Phạm Công Thành",
+      "email": "phamcongt560@gmail.com",
+      "password": "123456789",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "6",
+      "fullName": "Nguyễn Thị Lan",
+      "email": "lannguyen@gmail.com",
+      "password": "123456",
+      "phone": "0912345678",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "7",
+      "fullName": "Trần Minh Cường",
+      "email": "cuongtran@gmail.com",
+      "password": "123456",
+      "phone": "0978234561",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "8",
+      "fullName": "Lê Văn Tâm",
+      "email": "tamle@gmail.com",
+      "password": "123456",
+      "phone": "0902123123",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "9",
+      "fullName": "Hoàng Thị Mai",
+      "email": "maith@gmail.com",
+      "password": "123456",
+      "phone": "0989988776",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "10",
+      "fullName": "Phan Văn Dũng",
+      "email": "dungphan@gmail.com",
+      "password": "123456",
+      "phone": "0967345123",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "11",
+      "fullName": "Đặng Thị Ngọc",
+      "email": "ngocdang@gmail.com",
+      "password": "123456",
+      "phone": "0911223344",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "12",
+      "fullName": "Bùi Anh Tuấn",
+      "email": "tuanbui@gmail.com",
+      "password": "123456",
+      "phone": "0945123987",
+      "gender": true,
+      "status": false
+    },
+    {
+      "id": "13",
+      "fullName": "Nguyễn Thu Hà",
+      "email": "hanthu@gmail.com",
+      "password": "123456",
+      "phone": "0977123456",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "14",
+      "fullName": "Trần Quốc Khánh",
+      "email": "khanhtran@gmail.com",
+      "password": "123456",
+      "phone": "0905111222",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "15",
+      "fullName": "Phạm Văn Sơn",
+      "email": "sonpham@gmail.com",
+      "password": "123456",
+      "phone": "0933123456",
+      "gender": true,
+      "status": false
+    },
+    {
+      "id": "16",
+      "fullName": "Ngô Thị Hương",
+      "email": "huongngo@gmail.com",
+      "password": "123456",
+      "phone": "0923456789",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "17",
+      "fullName": "Lý Minh Hoàng",
+      "email": "hoangly@gmail.com",
+      "password": "123456",
+      "phone": "0987456123",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "18",
+      "fullName": "Nguyễn Thanh Tâm",
+      "email": "tamthanh@gmail.com",
+      "password": "123456",
+      "phone": "0912345671",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "19",
+      "fullName": "Đỗ Thị Yến",
+      "email": "yendo@gmail.com",
+      "password": "123456",
+      "phone": "0944556677",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "20",
+      "fullName": "Trịnh Công Bảo",
+      "email": "baotrinh@gmail.com",
+      "password": "123456",
+      "phone": "0919988776",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "21",
+      "fullName": "Phan Ngọc Anh",
+      "email": "anhphan@gmail.com",
+      "password": "123456",
+      "phone": "0909111223",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "22",
+      "fullName": "Vũ Văn Nam",
+      "email": "namvu@gmail.com",
+      "password": "123456",
+      "phone": "0987611223",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "23",
+      "fullName": "Lê Thị Kim",
+      "email": "kimle@gmail.com",
+      "password": "123456",
+      "phone": "0934111222",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "24",
+      "fullName": "Nguyễn Đức Anh",
+      "email": "anhduc@gmail.com",
+      "password": "123456",
+      "phone": "0905888999",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "25",
+      "fullName": "Hoàng Thị Nhung",
+      "email": "nhunghoang@gmail.com",
+      "password": "123456",
+      "phone": "0944332211",
+      "gender": false,
+      "status": true
+    },
+    {
+      "id": "1762226338511",
+      "fullName": "Pham Cong Thanh",
+      "email": "phamcongthanh@gmail.com",
+      "password": "123456789",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "1762226481765",
+      "fullName": "Pham Cong Thanh",
+      "email": "phamcongthanh1@gmail.com",
+      "password": "123456789",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "1762226606902",
+      "fullName": "Pham Cong Thanh",
+      "email": "phamcongthanh123@gmail.com",
+      "password": "123456",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "1762228323552",
+      "fullName": "phamcongthanh",
+      "email": "admin012@email.com",
+      "password": "123456",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "1762228526066",
+      "fullName": "phamcongthanh123456",
+      "email": "fafdafa@gmail.com",
+      "password": "123456",
+      "phone": "Unknown",
+      "gender": true,
+      "status": true
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "fullName": "Admin One",
+      "email": "admin1@example.com",
+      "password": "123456",
+      "phone": "0944354398",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "2",
+      "fullName": "Phạm Công Thành",
+      "email": "phamcongthanh@gmail.com",
+      "password": "123456",
+      "phone": "0944354398",
+      "gender": true,
+      "status": true
+    },
+    {
+      "id": "3",
+      "fullName": "Phạm Công Thành",
+      "email": "admin01@email.com",
+      "password": "123456",
+      "phone": "0944354398",
+      "gender": true,
+      "status": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Tiền Đi Học",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616472/eshrqiftl7oqxh9cudvm.png",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Tiền Ăn Uống",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616550/psn0ldthb3uibfrkleph.png",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Tiền Đi Lại",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616579/qyefsmrma2dfhrkt0hpa.png",
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "Tiền Sửa Chữa",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616674/amjakr5cujffn9sqxowc.png",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Tiền Cà Phê",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616701/tvwoejry6j96jkdzonzo.png",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Tiền Y Tế",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616767/dtlj3y8zoaydawb6sphy.png",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "Tiền Sức Khỏe",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616778/ubfeipobtiynf2ts9y9b.png",
+      "status": true
+    },
+    {
+      "id": "8",
+      "name": "Tiền Du Lịch",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616732/c2iyvej3ievhwjwukz7i.png",
+      "status": true
+    },
+    {
+      "id": "9",
+      "name": "Tiền Mua Sắm",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616747/sjqstdkw9mupyiabvabi.png",
+      "status": true
+    },
+    {
+      "id": "10",
+      "name": "Tiền Tiết Kiệm",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616640/jnsgeudy5sifgpeb2nfr.png",
+      "status": true
+    },
+    {
+      "id": "1761052544953",
+      "name": "Thành",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761052544/cp3bc2wyn6iqyffn8ecv.jpg",
+      "status": true
+    },
+    {
+      "id": "1761616525385",
+      "name": "Tiền Xăng",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616526/mgrzva6n0ckp3mnshplk.png",
+      "status": true
+    },
+    {
+      "id": "1761616614602",
+      "name": "Tiền Cho Con",
+      "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616616/alfk05k3dzkd4puofkwe.png",
+      "status": true
+    }
+  ],
+  "monthlyCategories": [
+    {
+      "id": "1",
+      "month": "2025-09-30",
+      "balence": 5000000,
+      "userId": 3,
+      "categories": [
+        {
+          "id": "1",
+          "categoryId": "1",
+          "budget": 800000
+        },
+        {
+          "id": "2",
+          "categoryId": "2",
+          "budget": 1200000
+        },
+        {
+          "id": "3",
+          "categoryId": "3",
+          "budget": 600000
+        },
+        {
+          "id": "4",
+          "categoryId": "4",
+          "budget": 2500000
+        },
+        {
+          "id": "5",
+          "categoryId": "5",
+          "budget": 500000
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "month": "2025-10-31",
+      "balence": 7000000,
+      "userId": 3,
+      "categories": [
+        {
+          "id": "6",
+          "categoryId": "1",
+          "budget": 1000000
+        },
+        {
+          "id": "7",
+          "categoryId": "2",
+          "budget": 1500000
+        },
+        {
+          "id": "8",
+          "categoryId": "3",
+          "budget": 700000
+        },
+        {
+          "id": "9",
+          "categoryId": "4",
+          "budget": 2500000
+        },
+        {
+          "id": "10",
+          "categoryId": "5",
+          "budget": 1300000
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "month": "2025-10-31",
+      "balence": 6000000,
+      "userId": 1,
+      "categories": [
+        {
+          "id": "11",
+          "categoryId": "1",
+          "budget": 700000
+        },
+        {
+          "id": "12",
+          "categoryId": "2",
+          "budget": 1200000
+        },
+        {
+          "id": "13",
+          "categoryId": "3",
+          "budget": 800000
+        },
+        {
+          "id": "14",
+          "categoryId": "5",
+          "budget": 500000
+        },
+        {
+          "id": "15",
+          "categoryId": "9",
+          "budget": 2800000
+        }
+      ]
+    },
+    {
+      "id": "95ec",
+      "userId": "3",
+      "month": "2025-10",
+      "balence": 5000000,
+      "categories": [
+        {
+          "id": 1761660878572,
+          "categoryId": "1",
+          "budget": 1000000
+        },
+        {
+          "id": 1761660885712,
+          "categoryId": "2",
+          "budget": 100000000
+        },
+        {
+          "id": 1761661274173,
+          "categoryId": "8",
+          "budget": 10000000
+        },
+        {
+          "id": 1761661280478,
+          "categoryId": "1761616525385",
+          "budget": 123131231
+        },
+        {
+          "id": 1761661288514,
+          "categoryId": "5",
+          "budget": 1000000
+        },
+        {
+          "id": 1761661294136,
+          "categoryId": "6",
+          "budget": 13131231
+        },
+        {
+          "id": 1761661301777,
+          "categoryId": "1761616614602",
+          "budget": 1312313131
+        },
+        {
+          "id": 1761785604296,
+          "categoryId": "1761616614602",
+          "budget": 1000000000
+        }
+      ]
+    },
+    {
+      "id": "1c29",
+      "userId": 3,
+      "month": "2025-11",
+      "balence": 10000000,
+      "categories": [
+        {
+          "id": 1762014762528,
+          "categoryId": "1",
+          "budget": 2000000,
+          "category": {
+            "id": "1",
+            "name": "Tiền Đi Học",
+            "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616472/eshrqiftl7oqxh9cudvm.png",
+            "status": true
+          }
+        },
+        {
+          "id": 1762014785680,
+          "categoryId": "2",
+          "budget": 3000000,
+          "category": {
+            "id": "2",
+            "name": "Tiền Ăn Uống",
+            "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616550/psn0ldthb3uibfrkleph.png",
+            "status": true
+          }
+        },
+        {
+          "id": 1762014799374,
+          "categoryId": "1761616525385",
+          "budget": 1000000,
+          "category": {
+            "id": "1761616525385",
+            "name": "Tiền Xăng",
+            "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616526/mgrzva6n0ckp3mnshplk.png",
+            "status": true
+          }
+        },
+        {
+          "id": 1762014814478,
+          "categoryId": "4",
+          "budget": 500000,
+          "category": {
+            "id": "4",
+            "name": "Tiền Sửa Chữa",
+            "imageUrl": "https://res.cloudinary.com/dkzrqnahy/image/upload/v1761616674/amjakr5cujffn9sqxowc.png",
+            "status": true
+          }
+        },
+        {
+          "id": 1762175745922,
+          "categoryId": "1761616614602",
+          "budget": 100000
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "id": "5",
+      "createdDate": "2025-10-10",
+      "total": 500000,
+      "description": "Mua quần áo",
+      "categoryId": "9",
+      "monthlyCategoryId": "3"
+    },
+    {
+      "id": "6",
+      "createdDate": "2025-10-11",
+      "total": 100000,
+      "description": "Uống cà phê sáng",
+      "categoryId": "2",
+      "monthlyCategoryId": "3"
+    },
+    {
+      "id": "7",
+      "createdDate": "2025-10-12",
+      "total": 300000,
+      "description": "Đổ xăng xe",
+      "categoryId": "3",
+      "monthlyCategoryId": "3"
+    },
+    {
+      "id": "8",
+      "createdDate": "2025-10-15",
+      "total": 200000,
+      "description": "Mua thuốc cảm",
+      "categoryId": "6",
+      "monthlyCategoryId": "3"
+    },
+    {
+      "id": "24b7",
+      "createdDate": "2025-10-29T01:43:32.846Z",
+      "total": 1,
+      "description": "1",
+      "categoryId": "1",
+      "monthlyCategoryId": "95ec"
+    },
+    {
+      "id": "e9f5",
+      "createdDate": "2025-10-30T02:15:39.662Z",
+      "total": 20000,
+      "description": "ok",
+      "categoryId": "4",
+      "monthlyCategoryId": "2"
+    },
+    {
+      "id": "0473",
+      "createdDate": "2025-10-31T00:26:50.263Z",
+      "total": 200000,
+      "description": "xangw",
+      "categoryId": "3",
+      "monthlyCategoryId": "2"
+    },
+    {
+      "id": "f198",
+      "createdDate": "2025-10-31T00:51:08.573Z",
+      "total": 2000000,
+      "description": "sửa xe",
+      "categoryId": "4",
+      "monthlyCategoryId": "2"
+    },
+    {
+      "id": "68d7",
+      "createdDate": "2025-11-01T16:33:56.598Z",
+      "total": 1000000,
+      "description": "đi học tiếng anh",
+      "categoryId": "1",
+      "monthlyCategoryId": "1c29"
+    },
+    {
+      "id": "1298",
+      "createdDate": "2025-11-01T16:34:23.518Z",
+      "total": 2000000,
+      "description": "mua đồ ăn hàng tháng",
+      "categoryId": "2",
+      "monthlyCategoryId": "1c29"
+    },
+    {
+      "id": "37ef",
+      "createdDate": "2025-11-01T16:34:58.556Z",
+      "total": 1000000,
+      "description": "ăn ngoài",
+      "categoryId": "2",
+      "monthlyCategoryId": "1c29"
+    },
+    {
+      "id": "1a9f",
+      "createdDate": "2025-11-01T16:35:17.274Z",
+      "total": 500000,
+      "description": "đổ xăng hàng tháng",
+      "categoryId": "1761616525385",
+      "monthlyCategoryId": "1c29"
+    },
+    {
+      "id": "af1f",
+      "createdDate": "2025-11-03T13:16:10.133Z",
+      "total": 20000,
+      "description": "tiền ăn sáng",
+      "categoryId": "1761616614602",
+      "monthlyCategoryId": "1c29"
+    }
+  ]
+}
